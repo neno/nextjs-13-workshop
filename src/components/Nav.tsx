@@ -5,6 +5,7 @@ export function Nav() {
     <div className='tabs tabs-boxed'>
       <NavLink href='/'>Selected Movies</NavLink>
       <NavLink href='/search'>Search</NavLink>
+      <NavLink href='/docs'>Documentation</NavLink>
     </div>
   );
 }
